@@ -6,6 +6,8 @@ public class xing {
 		System.out.println("不要啦 ");
 		System.out.println("很噁心欸");
 		System.out.println("讚喔");
+		System.out.println("欸一直失敗");
+		System.out.println("又在測試了");
 	}
 
 }
